@@ -8,4 +8,8 @@
     cursor: pointer;
     border: none;
     color: #fff;
+    &--back {
+        background: rgba(50, 92, 146, 0.2);
+        color: #0D0D0D;
+    }
 }
