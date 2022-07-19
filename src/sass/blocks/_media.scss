@@ -198,14 +198,14 @@
         }
     }
     .promo {
-        &__bg {
-            background: none;
-        }
+        // &__bg {
+        //     background: none;
+        // }
         &__inner {
             padding-top: 15px;
             min-height: 603px;
             margin-bottom: 35px;
-            background: url(../img/promo/promo-bg-mobile.png) bottom 127px (center / contain) no-repeat;
+            // background: url(../img/promo/promo-bg-mobile.png) bottom 127px (center / contain) no-repeat;
         }
         &__title {
             font-size: 23px;
