@@ -67,6 +67,9 @@
     &__image-mobile,
     &__text-mobile,
     &__button-mobile {
-        display: none!important;
+        display: none !important;
+    }
+    &__button-mobile {
+        display: none;
     }
 }
