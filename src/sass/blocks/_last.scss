@@ -65,7 +65,8 @@
     }
     &__bg-medium,
     &__image-mobile,
-    &__text-mobile {
-        display: none;
+    &__text-mobile,
+    &__button-mobile {
+        display: none!important;
     }
 }
